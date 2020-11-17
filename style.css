@@ -1,31 +1,6 @@
-.carousel-inner {
-    justify-content: center;
-    align-items: center;
-    width: 90%;
-    height: 0;
-    padding-top: 2%;
-    padding-left: 10%;
-   padding-bottom:70%; 
+#form{
+    background-color: lightgray;
 }
-body{
-  
-}
-#email{
-    width: 50%;
-    padding-left: 30vw;
-}
-#password{
-    width: 50%;
-    padding-left: 30vw;
-}
-#submitbtn{
- right: 20vw;
-}
-#submitbtn_{
-    right: 20vw; 
-}
-
-
 
 
 
