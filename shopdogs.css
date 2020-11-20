@@ -6,6 +6,9 @@ html {
       background-color:lightblue;
   }
  
+  .jumbotron{
+    background-color: lightblue;
+  }
 .card {
     margin-left: 450px;
     background-color: lightgrey;
@@ -18,6 +21,8 @@ html {
    background-color: white;
     width:500px;
 }
+
+
 
 .card button:hover {
     width:500px
@@ -50,4 +55,26 @@ html {
 }
 .cart:hover{
     height:50px;
+}
+.quotes{
+    font-weight: 900;
+}
+.quote2{
+    font-weight: 900;
+    margin-left: 1025px;
+}
+.familyname{
+    margin-left: 100px;
+    font-weight: 700;
+}
+.familyname2{
+    margin-left: 1190px;
+    font-weight: 700;
+}
+footer{
+    background-color: white;
+    height: 290px;
+}
+.about{
+    font-weight: 800;
 }

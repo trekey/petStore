@@ -29,6 +29,7 @@ var shop = [{
     document.getElementById('market').innerHTML = postHTML
 
 
+
    
     // $(document).ready(function(){
     //   $("a").on('click', function(event) {
