@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+  }
+  body{
+      background-color:lightblue;
+  }
+ 
+.card {
+    margin-left: 450px;
+    background-color: lightgrey;
+   background-blend-mode: multiply;
+    width:362px;
+}
+.card:hover {
+    margin-left: 450px;
+   
+   background-color: white;
+    width:500px;
+}
+
+.card button:hover {
+    width:500px
+   
+}
+
+
+#puppies{
+    font-size: 16px;
+}
+#puppies:hover{
+    font-size: 17px;
+}
+
+#dogs{
+    font-size: 16px;
+}
+#dogs:hover{
+    font-size: 17px;
+}
+#pure{
+    font-size: 16px;
+}
+#pure:hover{
+    font-size: 17px;
+}
+.cart{
+    height:30px;
+    
+}
+.cart:hover{
+    height:50px;
+}
